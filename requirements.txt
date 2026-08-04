@@ -1,0 +1,10 @@
+# Shared across all modalities
+pandas
+
+# --- added per modality as we build ---
+# text:   spacy, transformers, torch
+# pdf:    pdfplumber, pymupdf, pytesseract
+# audio:  openai-whisper
+# images: ultralytics, opencv-python
+# video:  moviepy
+# dashboard: streamlit
